@@ -1,0 +1,11 @@
+# Project config files to ignore #
+##################################
+bin/
+obj/
+Properties/
+*.ico
+*.user
+*.pfx
+*.resx
+*.suo
+*.csproj
